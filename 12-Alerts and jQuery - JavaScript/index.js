@@ -9,6 +9,6 @@ btn.addEventListener("click", () => {
 //With jQuery
 $(document).ready(() => {
     $("#alertBtn").click(() =>{
-        alert("You clicked the button.")
+        alert("You clicked the button with jQuery.")
     })
 })
